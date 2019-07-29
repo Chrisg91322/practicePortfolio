@@ -4398,7 +4398,7 @@ fieldset[disabled] .form-control:hover {
 
 .testimonials-parallax .t-wrapper blockquote, .testimonials-dark .t-wrapper blockquote, .testimonials-parallax .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404, .wrapper-404 .content-wrapper .info-wrapper .testimonials-parallax .t-wrapper .info-404, .testimonials-dark .t-wrapper .wrapper-404 .content-wrapper .info-wrapper .info-404, .wrapper-404 .content-wrapper .info-wrapper .testimonials-dark .t-wrapper .info-404, .testimonials-parallax .t-wrapper .bg-maintenance .content-wrapper .content-inner p, .bg-maintenance .content-wrapper .content-inner .testimonials-parallax .t-wrapper p, .testimonials-dark .t-wrapper .bg-maintenance .content-wrapper .content-inner p, .bg-maintenance .content-wrapper .content-inner .testimonials-dark .t-wrapper p {
   margin-bottom: 0;
-  font-size: 1.4em;
+  font-size: 2.4em;
   line-height: 1.6em;
   color: #ececec;
 }
