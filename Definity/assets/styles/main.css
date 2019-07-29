@@ -4371,7 +4371,7 @@ fieldset[disabled] .form-control:hover {
 -------------------------------------------------- */
 /* ---- 12.1 Testimonial - 1 Column Slider ---- */
 .testimonials-parallax, .testimonials-dark {
-  background: url(/Users/chrisg/lfz/practicePortfolio/Definity/assets/images/sea-2.jpg);
+  background: url(/Definity/assets/images/sea-2.jpg);
   background-size: cover;
   background-position: 50%;
   background-attachment: fixed;
