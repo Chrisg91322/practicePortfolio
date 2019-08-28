@@ -349,7 +349,7 @@
 		// Features Slider
 		$('.ft-slider').slick({
 			autoplay: true,
-			autoplaySpeed: 4000,
+			autoplaySpeed: 1000,
 			slidesToShow: 3,
 			slidesToScroll: 1,
 			dots: false,
@@ -378,7 +378,7 @@
 		// Testimonials Sliders
 		$('.t-slider').slick({
 			autoplay: false,
-			autoplaySpeed: 4000,
+			autoplaySpeed: 1000,
 			slidesToShow: 1,
 			slidesToScroll: 1,
 			dots: false,
@@ -390,7 +390,7 @@
 		// Brands/Clients Slider
 		$('.clients-slider').slick({
 			autoplay: true,
-			autoplaySpeed: 4000,
+			autoplaySpeed: 1000,
 			slidesToShow: 5,
 			slidesToScroll: 1,
 			dots: false,
@@ -424,7 +424,7 @@
 		// Portfolio Single Slider
 		$('.single-img-slider').slick({
 			autoplay: true,
-			autoplaySpeed: 4000,
+			autoplaySpeed: 1000,
 			slidesToShow: 1,
 			slidesToScroll: 1,
 			adaptiveHeight: true,
@@ -472,7 +472,7 @@
 			prevArrow: '<button type="button" class="slick-prev"><span class="linea-arrows-slim-left"></span></button>',
 			nextArrow: '<button type="button" class="slick-next"><span class="linea-arrows-slim-right"></span></button>',
 			autoplay: true,
-			autoplaySpeed: 4000,
+			autoplaySpeed: 1000,
 		});
 
 		// Full Width Hero Slider
@@ -485,7 +485,7 @@
 			prevArrow: '<button type="button" class="slick-prev"><span class="linea-arrows-slim-left"></span></button>',
 			nextArrow: '<button type="button" class="slick-next"><span class="linea-arrows-slim-right"></span></button>',
 			autoplay: true,
-			autoplaySpeed: 4000,
+			autoplaySpeed: 1000,
 		});
 
 		// Text Slider
@@ -500,7 +500,7 @@
 			prevArrow: '<button type="button" class="slick-prev"><span class="linea-arrows-slim-left"></span></button>',
 			nextArrow: '<button type="button" class="slick-next"><span class="linea-arrows-slim-right"></span></button>',
 			autoplay: true,
-			autoplaySpeed: 4000,
+			autoplaySpeed: 1000,
 		});
 
 		// Shop Product Slider
