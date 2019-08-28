@@ -2577,7 +2577,7 @@ fieldset[disabled] .form-control:hover {
   font-size: 0.8em;
   font-weight: 400;
   letter-spacing: 2px;
-  color: #999;
+  color: black;
   -webkit-transition: color 0.5s;
           transition: color 0.5s;
 }
@@ -8123,7 +8123,7 @@ form .input-error-2:focus {
 
 /* ---- 20.4 Full Screen Video ---- */
 .fs-video-hero, .fw-video-hero {
-  background: 1rem url(../../assets/images/loading.gif);
+  background: 1rem url(../../assets/images/sea-2.jpg);
   background-size: cover;
 }
 
@@ -8138,7 +8138,7 @@ form .input-error-2:focus {
 .fs-video-hero .hero-content-wrapper .hero-content .hero-subheading, .fw-video-hero .hero-content-wrapper .hero-content .hero-subheading {
   margin-top: 100px;
   margin-bottom: 20px;
-  color: #999;
+  color: white;
 }
 
 /* ---- 20.5 Full Width Video ---- */

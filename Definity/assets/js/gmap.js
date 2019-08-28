@@ -25,7 +25,7 @@ $(document).ready(function(){
 		  mapOptions);
 
 		// Map marker 
-		var image = '/assets/images/map-pin.png';
+		var image = 'Definity/assets/images/map-pin.png';
 		var myLatLng = new google.maps.LatLng(33.7175, -117.8311);
 		var beachMarker = new google.maps.Marker({
 			position: myLatLng,
